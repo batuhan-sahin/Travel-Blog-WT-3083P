@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.icons {
+  color: rgb(166, 61, 61);
+}
+.card-footer {
+  background-color: #fff !important;
+}
+
+.form-control button:hover {
+  background-color: #f8f9fa;
+  color: #000;
+}
+.btn-submit {
+  width: 100%;
+}
